@@ -15,7 +15,8 @@
     <title>New Tab</title>
     <style>
       body {
-        background: #FFFFFF;
+        backgr
+ound: #FFFFFF;
         margin: 0;
       }
 
