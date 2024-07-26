@@ -9,7 +9,7 @@
         pointer-events: none;
       groundImage {
         visibility: visible;
-      }
+    
     </style>
   </head>
   <body>
