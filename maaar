@@ -61,11 +61,7 @@ ype="module" src="new_tab_page.js"></script>
     <meta charset="utf-8">
     <title>New Tab</title>
     <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      }
-
+      bo
       #backgroundImage {
         border: none;
         height: 100%;
