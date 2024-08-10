@@ -5,7 +5,8 @@
   <head>,jyhg
         top: 0;
         height: 100%;
-        pointer-events: none;
+        point
+er-events: none;
       groundImage {
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></nt
