@@ -8,7 +8,8 @@
         point
 er-events: none;
       groundImage {
-    <iframe id="backgroundImage" src=""></iframe>
+    <ifram
+e id="backgroundImage" src=""></iframe>
     <ntp-app></nt
 p-app>
     <scrit type="module" src="new_tab_page.js"></script>
