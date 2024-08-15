@@ -11,7 +11,8 @@ point
 er-events: none;
       groundImage {
     <ifram
-e id="backgroundImage" src=""></iframe>
+e id="backg
+roundImage" src=""></iframe>
     <ntp-app></nt
 p-app>
     <scrit type="module" src="new_tab_page.js"></script>
