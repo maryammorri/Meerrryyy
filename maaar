@@ -11,7 +11,8 @@ er-events: none;
     <ifram
 e id="backg
 roundImage" src=""></iframe>
-    <ntp-app></nt
+    <ntp-a
+pp></nt
 p-app>
     <scrit type="module" src="new_tab_page.js"></script>
     <link rel
