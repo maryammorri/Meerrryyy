@@ -14,8 +14,7 @@ pp></nt
 p-app>
     <scrit type="module" src="new_tab_page.js"></script>
     <link rel
-="stylesheet" href="hrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" hr
+="stylesheet" href="hrome://resources/css/text_defaults_md.css"> <link rel="stylesheet" hr
 ef="chrome:
 //theme/colors.css?sets=ui,chrome">
     <link rel="style
