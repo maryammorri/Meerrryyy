@@ -27,7 +27,7 @@ heet" href="shared_vars.css">
     <style>
       body {
         background: #FFFFFF;
-        margin: 0;
+ margin: 0;
       }
 
       #backgroundImage {
