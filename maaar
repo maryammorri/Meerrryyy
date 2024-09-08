@@ -26,7 +26,7 @@ heet" href="shared_vars.css">
     <title>New Tab</title>
     <style>
       body {
-        background: #FFFFFF;
+background: #FFFFFF;
  margin: 0;
       }
 
