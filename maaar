@@ -21,8 +21,7 @@ heet" href="shared_vars.css">
 <html dir="ltr" lang="en">
   <head>
     <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
+    <title>New Tab</title <style>
  body {
 background: #FFFFFF;
  margin: 0;
