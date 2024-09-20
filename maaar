@@ -30,8 +30,7 @@ background: #FFFFFF;
         visibility: hidden;
         width: 100%;
        [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
+        visibility: visibl }
     </style>
   </head>
   <body>
