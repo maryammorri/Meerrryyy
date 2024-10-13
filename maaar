@@ -57,7 +57,7 @@ ype="module" src="new_tab_page.js"></script>
         top: 0;
         visibility: hidden;
         width: 100% }
-
+kjj
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
